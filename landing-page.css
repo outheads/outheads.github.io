@@ -29,7 +29,7 @@
   align-items: center;
   flex-direction: column;
   background-size: cover;
-  background-image: url("public/ledkryss.jpg");
+  background-image: url("ledkryss.jpg");
   background-position: 0% 40%;
 }
 .landing-page-navbar {
